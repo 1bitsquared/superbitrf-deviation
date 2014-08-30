@@ -1,0 +1,6 @@
+This repository contains configuration files for the deVention transmitters with deviationtx firmware. They are meant to be used with superbitrf receivers.
+
+For more information on deviationtx firmware: http://deviationtx.com/
+For more information on superbitrf: https://github.com/1bitsquared/superbitrf-firmware
+If you have any questions please join us on gitter: https://github.com/1bitsquared/superbitrf-firmware
+
